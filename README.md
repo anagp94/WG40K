@@ -1,4 +1,4 @@
-# 🪖 Warhammer Guide App
+# 🪖 WG40K Guide App
 
 ¡Bienvenido, comandante! ⚔️ Esta guía táctica ha sido diseñada para acompañarte en cada batalla, con un estilo militar verde y totalmente optimizada para dispositivos móviles.  
 Todo lo que necesitas, al alcance de tu mano.
